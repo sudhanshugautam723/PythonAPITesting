@@ -1,4 +1,0 @@
-This is Sanity Test Case
-This is End of testcase
-Close DB Connection after executing testcase
------------------------------------------------------
